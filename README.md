@@ -1,2 +1,9 @@
-# RV
-Project at MIT, testing out different inputs into a Convolutional Neural Network involving the Radial Velocity method for the detection of exoplanets.
+# rv_net
+
+
+## Steps
+1. Download all the files from this repository
+2. navigate to the rv_net folder in your terminal. Then, replicate the anaconda environment by typing the following in a command prompt
+<code> conda env create -f tensorflow_env.yml </code>
+3. Run the <code>2_3_1_HARPS_Linear_FC_CNN_June10_2023.ipynb</code>  script
+
